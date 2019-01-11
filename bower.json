@@ -1,0 +1,27 @@
+{
+  "name": "adapt-deep-higlight",
+  "version": "0.0.4",
+  "homepage": "https://github.com/deepika2309/adapt-deep-higlight",
+  "authors": [
+    "Deepika Sahu <deepikash6@gmail.com>"
+  ],
+  "description": "a plugin for bookmarking",
+  "main": "/js/template.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "framework": "~2.0.0",
+  "dependencies": {
+    "adapt-contrib-text": "*"
+  },
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
