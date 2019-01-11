@@ -17,7 +17,7 @@
     "dependencies": {
         "adapt-contrib-text": "*"
     },
-    "private": true,
+    "private": false,
     "ignore": [
         "**/.*",
         "node_modules",
