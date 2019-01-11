@@ -1,6 +1,6 @@
 {
     "name": "adapt-deep-higlight",
-    "repository": "https://github.com/deepika2309/adapt-deep-highlight.git",
+    "repository": "git://github.com/deepika2309/adapt-deep-highlight.git",
     "framework": "1.0.0",
     "version": "0.0.4",
     "homepage": "https://github.com/deepika2309/adapt-deep-higlight.git",
