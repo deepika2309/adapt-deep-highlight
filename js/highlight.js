@@ -9,7 +9,7 @@ define(["coreJS/adapt", "templates"], function(Adapt) {
         },
         
         render: function() {
-            
+            var data = {"title":"Hello World"};
             var template = Handlebars.templates["template"];
             this.$el.append(template(data));
             return this;
